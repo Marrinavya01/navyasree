@@ -15,3 +15,4 @@ employees_above_threshold = [
     employee["name"] for employee in employees.values() if employee["salary"] > threshold
 ]
 print(f"Employees earning more than {threshold}: {employees_above_threshold}")
+navaya lakshmi
